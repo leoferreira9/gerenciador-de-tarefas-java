@@ -41,7 +41,7 @@ https://github.com/leoferreira9/gerenciador-de-tarefas-java
 
 - Execute a classe Main.java
 
-U- se o menu interativo no console para navegar pelas funcionalidades
+- Use o menu interativo no console para navegar pelas funcionalidades
 
 ## 👨‍💻 Autor
 ### Leonardo Ferreira
