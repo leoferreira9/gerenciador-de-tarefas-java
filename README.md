@@ -31,3 +31,20 @@ src/
 - Paradigma orientado a objetos (POO)
 - Scanner (entrada de dados)
 - Java Time (datas)
+
+## 🚀 Como executar
+
+- Clone o repositório:
+https://github.com/leoferreira9/gerenciador-de-tarefas-java
+
+- Abra no seu IDE Java favorito (IntelliJ, Eclipse, VSCode com extensões etc.)
+
+- Execute a classe Main.java
+
+U- se o menu interativo no console para navegar pelas funcionalidades
+
+## 👨‍💻 Autor
+### Leonardo Ferreira
+- Estudante de Engenharia de Software, focado em desenvolvimento back-end com Java.
+
+## 📫 https://www.linkedin.com/in/leonardoferreirabarros/
